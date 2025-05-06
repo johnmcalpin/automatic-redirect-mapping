@@ -207,7 +207,3 @@ This tool processes URLs locally except when using the Gemini API. Only URL path
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
-
-## 📞 Support
-
-If you need help, please open an issue on GitHub or contact [your-email@example.com].
